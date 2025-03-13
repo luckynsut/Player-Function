@@ -1,0 +1,3 @@
+# In main.py or test script
+from RPS_game import play, quincy
+play(player, quincy, 1000, verbose=True)  # Play 1000 games against 'quincy'
